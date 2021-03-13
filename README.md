@@ -10,19 +10,19 @@ The description of the different files in the repository are as follows:
 
 Best possible set of hyperparameters found on fashion-mnist dataset- 
 
-Activation - ReLU
-Learning rate (eta) - 0.001
-L2 regularization (alpha) - 0
-Epochs - 10
-Hidden Layer Size - 128
-No. of layers - 4
-Optimizer - nadam
-Weight Initialization - Random 
+Activation - ReLU,
+Learning rate (eta) - 0.001,
+L2 regularization (alpha) - 0,
+Epochs - 10,
+Hidden Layer Size - 128,
+No. of layers - 4,
+Optimizer - nadam,
+Weight Initialization - Random,
 Loss Function - Cross Entropy
 
 Best Results - 
 
-Training Accuracy - 0.9124
-Train Loss - 0.2366
-Validation Accuracy - 0.8978
+Training Accuracy - 0.9124,
+Train Loss - 0.2366,
+Validation Accuracy - 0.8978,
 Validation Loss - 0.3064
