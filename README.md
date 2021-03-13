@@ -26,3 +26,5 @@ Training Accuracy - 0.9124,
 Train Loss - 0.2366,
 Validation Accuracy - 0.8978,
 Validation Loss - 0.3064
+
+Link to wandb report - https://wandb.ai/neilghosh/cs6910_assignment_1/reports/CS6910-Assignment-1-Report--Vmlldzo1MjQ4ODg
